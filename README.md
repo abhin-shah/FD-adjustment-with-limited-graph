@@ -77,7 +77,7 @@ $ python3 -W ignore fd_causal_effect.py --nobs 10 --samples_list 100 1000 10000 
 
 4. To reproduce Figure 6, run the following command:
 ```shell
-$ jupyter notebook German.ipynb
+$ python -W ignore German.py
 ```
 
 5. To reproduce Figure 9, run the following commands:
